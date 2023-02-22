@@ -15,7 +15,7 @@ module.exports = {
   },
   hero: { // used in hero section of main page ie. index.html.njk
     title: "Welcome to the Punk Pedagogue",
-    description: "My name is Joe Diodato. I'm a special education teacher, unionist, and musician. This blog is a place for me to document my learning and growth as an educator and unionist" +
+    description: "My name is Joe Diodato. I'm a special education teacher, unionist, and musician. This blog is a place for me to document my learning and growth as an educator and unionist. " +
     "Help yourself to a cup of tea, and thanks for stopping by my little corner of the internet." 
   }
 }

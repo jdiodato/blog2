@@ -1,3 +1,11 @@
+---
+title: The Joy of Sudoku
+date: 2023-01-01
+description: In which I discovered how fun sudoku could be during a bout of COVID.
+tags:
+  - logic puzzles
+---
+
 During my recent bout of COVID, I spent a great deal of time laying in bed, feeling rather exhausted and uninterested in doing much of anything but sleep. As many of us do when bedridden, I looked through my social media accounts, random apps, and Spotify playlists – anything to help pass the time. In doing so, I came across a [Sudoku app](https://en.wikipedia.org/wiki/Sudoku) that I had installed on my phone at some point, which has largely sat unforgotten until now. For the curious, my go-to Sudoku app is currently Logic Wiz. It is available on both [Google Play](https://play.google.com/store/apps/details?id=com.uvmlab.usudoku&hl=en_US&gl=US&pli=1) and the [Apple App Store](https://apps.apple.com/us/app/sudoku-variants-by-logic-wiz/id1530683853).
 
 For those that don’t know, Sudoku is a deceptively simple [logic puzzle](https://en.wikipedia.org/wiki/Logic_puzzle). The goal is to fill a 9×9 grid so that each row, column, and 3×3 subgrid contains all digits from 1 – 9. In doing so, the numbers can’t repeat within each subgrid or across a row or column. To my unassuming mind, it seemed like an easy way to pass the time. The puzzles come in a variety of difficulty levels and don’t seem particularly complex. Man, was I wrong.
